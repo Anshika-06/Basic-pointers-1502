@@ -12,5 +12,6 @@ datatype * pointer_name;
 Addressof Operator:  returns the address of a variable.
 
 Syntax:
+
 &variable_name;
 
